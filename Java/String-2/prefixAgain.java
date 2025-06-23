@@ -1,0 +1,5 @@
+public boolean prefixAgain(String str, int n) {
+  String pre = str.substring(0, n);
+  for(int i = 1; i < str.length() - n + 1; i++) if(str.substring(i, i + n).equals(pre)) return true;
+  return false;
+}
