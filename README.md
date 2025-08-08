@@ -1,3 +1,6 @@
+>[!note]
+>Repository doesn't contain everything from CodingBat yet. More will be added.
+
 # CodingBat Solutions
 
 This repository provides solutions to various Java and Python coding challenges from [CodingBat](https://codingbat.com/).  
